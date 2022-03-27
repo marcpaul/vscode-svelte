@@ -16,7 +16,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
-		"svelte.svelte-vscode",
-		"ardenivanov.svelte-intellisense"
+		"ardenivanov.svelte-intellisense",
+		"svelte.svelte-vscode"
     ]
 }
